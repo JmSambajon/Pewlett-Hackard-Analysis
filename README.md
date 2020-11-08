@@ -1,10 +1,14 @@
 # Pewlett-Hackard-Analysis
 
 ### Overview of the analysis
-The purpose for this analysis is to determine the number of Pewlett-Hackard retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This is in order to prepare for the “silver tsunami” as many current employees reach retirement age. PostgreSQL was used to query CSVs and create new tables to show who will retire.
+The purpose for this analysis is to determine the number of Pewlett-Hackard retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This is in order to prepare for the “silver tsunami” as many current employees reach retirement age. PostgreSQL was used to query CSVs and create new tables to show who will retire. Here is an ERD of the data tables that were used
+
+![ERD](EmployeeDB.png)
 
 ### Results
-PENDING
+ Based on my findings I can draw the following conclusions:
+ 
+ 
 
 ### Summary
 There are 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact. 
