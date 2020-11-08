@@ -20,8 +20,10 @@ The purpose for this analysis is to determine the number of Pewlett-Hackard reti
 
 
 ### Summary
-There are 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact. 
+There are 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
 
-PENDING
+There are only 1,549 qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. If Pewlett-Hackard hires 90,398 new people, here will not be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. 
 
-There are only 1,549 qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. If Pewlett-Hackard hires 90,398 new people, here will not be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+One query toThe best option for the smoothest transition would be to hire new employees over time so the exisitng mentors have a chance to interact with the new employees.
+
+
