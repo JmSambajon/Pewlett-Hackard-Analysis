@@ -19,7 +19,6 @@ The purpose for this analysis is to determine the number of Pewlett-Hackard reti
  ![mentors](Eligible_mentors.png)
 
 
-![titles}(
 ### Summary
 There are 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact. 
 
