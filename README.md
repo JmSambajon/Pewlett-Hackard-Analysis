@@ -12,7 +12,7 @@ The purpose for this analysis is to determine the number of Pewlett-Hackard reti
 * The largest group of retirement eiligilble employees are the senior engineers with 29,414 employees. In stark contrast, smallest group of reitrement eligible employees is the Managers with only 2 emlployees
  
 * Many of of these employees had multiple roles during their time at Pewlett Hackard. Here is a snippet of some employees who had multiple roles.
- ![retirecount](Employee_titles.png)
+ ![retirecount](employee_titles.png)
 
 * Based on the amount of employees eligible for retirement, there are only 1,549 employees who can particiate in the mentorship program. Here are the mentorship eligible employees by title.
  
