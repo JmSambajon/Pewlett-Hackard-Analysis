@@ -10,6 +10,7 @@ The purpose for this analysis is to determine the number of Pewlett-Hackard reti
  ![retirecount](Retiring_titles.png)
  
 * Many of of these employees had multiple roles during their time at Pewlett Hackard.
+ ![retirecount](Employee_titles.png)
 
 ![titles}(
 ### Summary
