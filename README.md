@@ -6,10 +6,12 @@ The purpose for this analysis is to determine the number of Pewlett-Hackard reti
 ![ERD](EmployeeDB.png)
 
 ### Results
- Based on my findings I can draw the following conclusions:
+* There are 90,398 Pewlett Hackard employees across 7 departments that are eligible for retirement this year. 
+ ![retirecount](Retiring_titles.png)
  
- 
+* Many of of these employees had multiple roles during their time at Pewlett Hackard.
 
+![titles}(
 ### Summary
 There are 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact. 
 
